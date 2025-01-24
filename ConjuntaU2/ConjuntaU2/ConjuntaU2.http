@@ -1,0 +1,6 @@
+@ConjuntaU2_HostAddress = http://localhost:5186
+
+GET {{ConjuntaU2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

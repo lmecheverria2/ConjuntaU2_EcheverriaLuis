@@ -1,0 +1,1 @@
+jRTC:\Users\luise\source\repos\TestingSonarQube\ConjuntaU2\ConjuntaU2\ConjuntaU2.csproj¢net8.0òCSharp12

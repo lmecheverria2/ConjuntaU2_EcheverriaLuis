@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\conjuntau2\\desingtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A182101-ADD5-4B3E-B70C-10BB4E9B5286}|ConjuntaU2\\ConjuntaU2.csproj|solutionrelative:conjuntau2\\desingtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\testproject1\\clientescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\clientescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\testproject1\\ventascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\ventascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\testproject1\\productoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\productoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\testproject1\\categoriascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\categoriascontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|c:\\users\\luise\\source\\repos\\testingsonarqube\\conjuntau2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F134D-5BD8-4B79-9953-2DDE07520489}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\AppDbContext.cs",
+              "RelativeToolTip": "ConjuntaU2\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:28:45.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\appsettings.json",
+              "RelativeDocumentMoniker": "ConjuntaU2\\appsettings.json",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\appsettings.json",
+              "RelativeToolTip": "ConjuntaU2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T12:42:12.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ConjuntaU2\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADgvzcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:37:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ConjuntaU2\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:37:59.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "ConjuntaU2\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:38:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Clientes.cs",
+              "RelativeToolTip": "ConjuntaU2\\Models\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:23:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Ventas.cs",
+              "RelativeToolTip": "ConjuntaU2\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:22:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConjuntaU2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T02:05:23.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ConjuntaU2\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:37:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Categorias.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Models\\Categorias.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Categorias.cs",
+              "RelativeToolTip": "ConjuntaU2\\Models\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:22:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Models\\Productos.cs",
+              "RelativeToolTip": "ConjuntaU2\\Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:15:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Program.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\Program.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\Program.cs",
+              "RelativeToolTip": "ConjuntaU2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:27:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DesingTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\DesingTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ConjuntaU2\\DesingTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\ConjuntaU2\\DesingTimeDbContextFactory.cs",
+              "RelativeToolTip": "ConjuntaU2\\DesingTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:18:53.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:46:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\ClientesControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ClientesControllerTest.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\ClientesControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\ClientesControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:59:18.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriasControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\CategoriasControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CategoriasControllerTest.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\CategoriasControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\CategoriasControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:52:53.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductosControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\ProductosControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ProductosControllerTest.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\ProductosControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\ProductosControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:58:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentasControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\VentasControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\VentasControllerTest.cs",
+              "ToolTip": "C:\\Users\\luise\\source\\repos\\TestingSonarQube\\ConjuntaU2\\TestProject1\\VentasControllerTest.cs",
+              "RelativeToolTip": "TestProject1\\VentasControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:58:52.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+projectKey=ConjuntaU2
+serverUrl=http://127.0.0.1:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=ConjuntaU2
+ceTaskId=c70af86f-4619-4cb9-aaad-af38a189bad3
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=c70af86f-4619-4cb9-aaad-af38a189bad3
